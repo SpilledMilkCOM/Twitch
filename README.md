@@ -26,3 +26,6 @@ This repository is a spot for Keaton Smart's Twitch assets and tests as well as 
 
 ###### Bryce is a cheap way to render material buttons ($20)
 * https://www.daz3d.com/bryce-7-pro
+
+###### Kabby has done a GREAT job on do's and don'ts
+* https://www.kabby.tv/blog/a-streamers-guide-to-finding-success-on-mixer
