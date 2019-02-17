@@ -5,11 +5,11 @@ This repository is a spot for Keaton Smart's Twitch assets and tests as well as 
 * Rebrand
   * no numbers
   * no underscores or special characters
-* Sign up for Github
 * Sign up for Paypal
-* **[Download Visual Studio Code](https://code.visualstudio.com/) (it's free)**
 
 ### DONE
+* **[Download Visual Studio Code](https://code.visualstudio.com/) (it's free)**
+* Sign up for Github
 * Able to stream from Switch
 * Hooked up camera (albeit pretty crappy)
 * Using OBS on PC/Tower
