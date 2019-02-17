@@ -23,3 +23,6 @@ This repository is a spot for Keaton Smart's Twitch assets and tests as well as 
 
 ###### Convert from decimal color to HEX
 * http://www.psyclops.com/tools/rgb/
+
+###### Bryce is a cheap way to render material buttons ($20)
+* https://www.daz3d.com/bryce-7-pro
