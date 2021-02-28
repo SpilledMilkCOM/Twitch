@@ -27,7 +27,7 @@ This repository is a spot for Keaton Smart's Twitch assets and tests as well as 
 * The file size cannot exceed 1MB.
 * Submit your emote with a fully transparent background.
 
-[https://github.com/SpilledMilkCOM/Twitch/blob/master/Reference/No%20Face%20Chibi-Happy%20-%20112x112.png]
+[](https://raw.githubusercontent.com/SpilledMilkCOM/Twitch/master/Reference/No%20Face%20Chibi-Happy%20-%20112x112.png)
 
 ### Reference
 
