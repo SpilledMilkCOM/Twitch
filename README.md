@@ -1,4 +1,4 @@
-# Twitch - [Kaonashi98](https://www.twitch.tv/kaonashi98)
+# <img src="https://github.com/SpilledMilkCOM/Twitch/blob/master/Reference/No%20Face%20Chibi-Happy%20-%20112x112.png?raw=true" width="60px" /> Twitch - [Kaonashi98](https://www.twitch.tv/kaonashi98) <img src="https://github.com/SpilledMilkCOM/Twitch/blob/master/Reference/No%20Face%20Chibi%20112x112-Focused.png?raw=true" width="60px" />
 
 This repository is a spot for Keaton Smart's Twitch assets and tests as well as social media banners, etc.
 
@@ -26,10 +26,6 @@ This repository is a spot for Keaton Smart's Twitch assets and tests as well as 
 * Or three image sizes: 28 x 28px, 56 x 56px and 112 x 112px.
 * The file size cannot exceed 1MB.
 * Submit your emote with a fully transparent background.
-
-<img src="https://github.com/SpilledMilkCOM/Twitch/blob/master/Reference/No%20Face%20Chibi-Happy%20-%20112x112.png?raw=true" width="40px" />
-
-<img src="https://github.com/SpilledMilkCOM/Twitch/blob/master/Reference/No%20Face%20Chibi%20112x112-Focused.png?raw=true" width="40px" />
 
 ### Reference
 
